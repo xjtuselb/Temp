@@ -1,5 +1,6 @@
-#include<stdio.h>
+О╩©#include<stdio.h>
 
 void main() {
-	printf("жпндотй╬\n");
+	printf("Д╦╜Ф√┤Ф≤╬Г╓╨\n");
+	printf("Д╦╜Ф√┤");
 }
